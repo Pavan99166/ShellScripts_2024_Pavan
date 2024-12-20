@@ -6,3 +6,4 @@ echo " enter the integer value of num2"
 read num2
 sum=`expr $num1 + $num2`
 echo " the sum of $num1 and $num2 is $sum"
+echo "END"
